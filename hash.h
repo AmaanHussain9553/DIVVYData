@@ -1,7 +1,7 @@
 /*hash.h*/
 
 //
-// Prof. Joe Hummel
+// Amaan Hussain
 // U. of Illinois, Chicago
 // CS 251: Spring 2020
 // 
