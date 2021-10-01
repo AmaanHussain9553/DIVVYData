@@ -1,12 +1,10 @@
 /*main.cpp*/
 
 //
-// Prof. Joe Hummel
+// Amaan Hussain
 // U. of Illinois, Chicago
 // CS 251: Spring 2020
-// 
-// Lab Week 11: hashing of dates and lottery numbers (SOLUTION)
-// 
+//  
 
 #include <iostream>
 #include <fstream>
