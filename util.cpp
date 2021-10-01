@@ -1,7 +1,7 @@
 /*util.cpp*/
 
 //
-// Prof. Joe Hummel
+// Amaan Hussain
 // U. of Illinois, Chicago
 // CS 251: Spring 2020
 // Project #06: hashing DIVVY data
