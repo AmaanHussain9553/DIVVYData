@@ -1,7 +1,7 @@
 /*hashmap.h*/
 
 //
-// <<YOUR NAME>>
+// Amaan Hussain
 // U. of Illinois, Chicago
 // CS 251: Spring 2020
 // Project #06: hashing
