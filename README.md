@@ -6,7 +6,9 @@ Data regarding DIVVY stations based on:
 2. DIVVY station number
 
 Data regarding DIVVY bikes and trip logs based on Bike ID or Trip ID respectively
+
 Look for nearby stations based on latitude and longitude
+
 Look for similar trips based on Trip number and distance of trip
 
 The program is implemented using:
